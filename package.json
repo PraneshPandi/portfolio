@@ -16,14 +16,14 @@
     "react-simple-typewriter": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://PraneshPandi.github.io/portfolio",
+  "homepage": "https://github.com/PraneshPandi/portfolio.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo https://github.com/pipinthedev/React_Portfolio.git"
+    "deploy": "gh-pages -d build --repo https://github.com/PraneshPandi/portfolio.git"
   },
   "eslintConfig": {
     "extends": [
